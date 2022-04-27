@@ -303,46 +303,46 @@ actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Titulo de pagina</title>
-</head>
-<body>
-    <header>
-        <h1>ENCABEZADO NIVEL 1</h1>
-        <nav>
-            <ul>
-                <li>ENLACE 1</li>
-                <li>ENLACE 2</li>
-                <li>ENLACE 3</li>
-                <li>ENLACE 4</li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        <section>
-            <h2>Encabezado nievel 2</h2>
-            <p>Aqui va el primer texto de parrafo</p><br>
-            <p>Aqui va el  texto del segundo parrafo</p>
-        </section>
-        <aside>
-            <h2>APARTADO</h2>
-            <P>Elige la opcion</P>
-            <form action="">
-                <input type="checkbox" name="opcion" >Opcion 1<br>
-                <input type="checkbox" name="opcion" >Opcion 2<br>
-                <input type="checkbox" name="opcion" >Opcion 3<br>
-                <input type="submit" name="enviar" value="enviar" id="">
-            </form>
-        </aside>
-        
-    </main>
-    <footer>
-        <p>Seccion de informacion de contacto,derechos de autor, etc</p>
-    </footer>
-</body>
-</html>
+       <!DOCTYPE html>
+       <html lang="en">
+       <head>
+           <meta charset="UTF-8">
+           <meta http-equiv="X-UA-Compatible" content="IE=edge">
+           <meta name="viewport" content="width=device-width, initial-scale=1.0">
+           <title>Titulo de pagina</title>
+       </head>
+       <body>
+           <header>
+               <h1>ENCABEZADO NIVEL 1</h1>
+               <nav>
+                   <ul>
+                       <li>ENLACE 1</li>
+                       <li>ENLACE 2</li>
+                       <li>ENLACE 3</li>
+                       <li>ENLACE 4</li>
+                   </ul>
+               </nav>
+           </header>
+           <main>
+               <section>
+                   <h2>Encabezado nievel 2</h2>
+                   <p>Aqui va el primer texto de parrafo</p><br>
+                   <p>Aqui va el  texto del segundo parrafo</p>
+               </section>
+               <aside>
+                   <h2>APARTADO</h2>
+                   <P>Elige la opcion</P>
+                   <form action="">
+                       <input type="checkbox" name="opcion" >Opcion 1<br>
+                       <input type="checkbox" name="opcion" >Opcion 2<br>
+                       <input type="checkbox" name="opcion" >Opcion 3<br>
+                       <input type="submit" name="enviar" value="enviar" id="">
+                   </form>
+               </aside>
+
+           </main>
+           <footer>
+               <p>Seccion de informacion de contacto,derechos de autor, etc</p>
+           </footer>
+       </body>
+       </html>
