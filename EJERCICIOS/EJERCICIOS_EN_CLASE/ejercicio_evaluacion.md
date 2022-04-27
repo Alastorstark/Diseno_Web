@@ -53,3 +53,51 @@
 
 
 ## AGREGA EL CSS NECESARIO A LA PÁGINA.
+
+
+
+                    body{
+                background-color: rgb(8, 180, 123);
+            }
+
+            header{
+                background-color: black;
+            }
+            h1{
+                color: aquamarine;
+                text-align: center;
+                font-size: 3em;
+            }
+            li{
+                background-color: aquamarine;
+              color: black;
+            }
+
+
+             #seccion{
+                color: black;
+                background-color: rgb(9, 136, 240);
+            }
+            h2{
+                 text-align: center;
+            }
+            section p{
+
+                  text-align: center;
+
+
+            }
+            aside{
+                background-color: fuchsia;
+                color: black;
+                text-align: center;
+
+
+            }
+
+            footer p{
+                background-color: yellow;
+                color: black;
+                text-align: center;
+            }
+
