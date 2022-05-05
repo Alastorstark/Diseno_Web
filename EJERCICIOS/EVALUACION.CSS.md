@@ -165,6 +165,9 @@ Al usar la propiedad de relleno (padding); ¿Está permitido usar valores negati
      
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la maquetación en código html y css, valor 36)
 
+![image](https://user-images.githubusercontent.com/87988894/166944537-8d4893c5-e243-4b97-b53e-2dfbf1949da0.png)
+
+
 image
 
       ● Este ejercicio lo deberás realizar con las etiquetas de HTML5, haciendo uso de los elementos semánticos de HTML5.
