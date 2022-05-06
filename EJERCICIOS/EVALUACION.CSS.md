@@ -202,7 +202,7 @@ image
           <footer>
                <div id="foot">
                   <h2 id="naranja">¿Quien se puede inscribir?</h2>
-                  <p><strong>Persona que quiera aprender a programar código y cuente con 4-8 horas disponibles  a la semana</strong></p>
+                  <p><strong>Cualquier persona que quiera aprender a programar código y cuente con 4-8 horas disponibles  a la semana</strong></p>
                         <p>"Menores de edad deberan entrar a las instalaciones acompañados por un adulto."</p>
                </div>
           </footer>
